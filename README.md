@@ -48,7 +48,7 @@ Check out [Kyrix Investments](https://kyrixinvestments.com).
 
 ## 3. Buildev.io (In-progress)
 ### About
-Tech venture studio platform launching in Nigeria.
+Tech venture studio platform launching soon.
 
 Check out [Buildev.io](https://buildev.io).
 
@@ -63,7 +63,7 @@ _**Disclaimer:** View these with a pixel (or three) of salt. I'm working on a ne
 
 ### Notes
 - First client project built with Nuxt.
-- Despite the disclaimer above, I _am_ proud of the webitse (sort of).
+- Despite the disclaimer above, I _am_ proud of the website (sort of).
 - Got to learn a little about [Rive](https://rive.app) and built some custom animations for the webpage (🔥). Too bad they'll be scrapped for V2. Oh well.
 - Also discovered [Resend](https://resend.com). Made sending emails from a frontend-only app a breeze.
 - There's a locked login link on the homepage 😏. It's a teaser for something really awesome that's in the works (70% done too).
