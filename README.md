@@ -9,7 +9,7 @@ _Sidenote: I_ **will** _build a legit personal website — just as soon as I can
 ### About
 An online marketplace linking buyers and sellers of natural foods. Based in Nigeria. Expanding soon.
 
-Check out [SundryAgro](https://sundryagro.com)
+Check out [SundryAgro](https://sundryagro.com).
 
 ### **Screenshots:**
 
@@ -30,7 +30,7 @@ Check out [SundryAgro](https://sundryagro.com)
 ### About
 Website for Kyrix — an investment firm based in Namibia.
 
-Check out [Kyrix Investments](https://kyrixinvestments.com)
+Check out [Kyrix Investments](https://kyrixinvestments.com).
 
 ### **Screenshots:**
 
@@ -44,13 +44,13 @@ Check out [Kyrix Investments](https://kyrixinvestments.com)
 - Now **this** one I'm really proud of. It was the first project where I built a custom WordPress theme and actually got to interact with WordPress as a developer, and not merely a drag n' drop robot.
 - Discovered [TailPress](https://tailpress.io) while working on this project. Really sweet stuff.
 - Each sector of investment has a dedicated page. I had this idea to give each of those pages a distinct identity/color palette. I think it came out really neat. 🔥🔥🔥
-- No ver. 2. Unless they get in touch to say they want a rebrand. Maybe in a few years' time. 😌
+- No V2. Unless they get in touch to say they want a rebrand. Maybe in a few years' time. 🤷🏾‍♂️😌
 
 ## 3. Buildev.io (In-progress)
 ### About
 Tech venture studio platform launching in Nigeria.
 
-Check out [Buildev.io](https://buildev.io)
+Check out [Buildev.io](https://buildev.io).
 
 ### **Screenshots:**
 _**Disclaimer:** View these with a pixel (or three) of salt. I'm working on a new version that looks **super duper** different. Something [Awwwards](https://www.awwwards.com/) level._
@@ -64,7 +64,7 @@ _**Disclaimer:** View these with a pixel (or three) of salt. I'm working on a ne
 ### Notes
 - First client project built with Nuxt.
 - Despite the disclaimer above, I _am_ proud of the webitse (sort of).
-- Got to learn a little about [Rive](https://rive.app) and built some custom animations for the webpage (🔥). Too bad, they'll be scrapped for V2. Oh well.
+- Got to learn a little about [Rive](https://rive.app) and built some custom animations for the webpage (🔥). Too bad they'll be scrapped for V2. Oh well.
 - Also discovered [Resend](https://resend.com). Made sending emails from a frontend-only app a breeze.
-- There's a locked login link on the homepage 😏. It's a tease for something really awesome that's in the works (70% done too).
+- There's a locked login link on the homepage 😏. It's a teaser for something really awesome that's in the works (70% done too).
 
